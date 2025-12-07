@@ -277,3 +277,4 @@ document.addEventListener("DOMContentLoaded", function () {
 </body>
 </html>
 ```
+**NOTE: Check back once a week or month to see if we updated this, because this is in BETA too!**
